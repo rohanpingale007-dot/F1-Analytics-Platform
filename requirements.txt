@@ -1,0 +1,7 @@
+# Runtime dependencies for the F1 Analytics Platform
+# Install with: python -m pip install -r requirements.txt
+
+streamlit>=1.35,<2.0
+pandas>=2.0,<4.0
+numpy>=1.24,<3.0
+plotly>=5.20,<7.0
